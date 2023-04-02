@@ -7,4 +7,4 @@ export const AuthActionsName={
     FAIL_SIGNIN:'FAIL_SIGNIN',
      SIGNOUT:'SIGNOUT'
 
-}
+};

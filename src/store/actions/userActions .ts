@@ -106,5 +106,5 @@ export const userMethoads = {
     } catch (error: any) {
       
     }
-  },
+  }
 };

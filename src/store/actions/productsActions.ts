@@ -135,10 +135,10 @@ export const productsMethods = {
     } catch (error:any) {
       console.log(error.message)
     }
-  },
+  }
   
 
-};
+}
 
 
 

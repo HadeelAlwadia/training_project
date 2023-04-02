@@ -40,6 +40,6 @@ export const ordersReducer = (
       return { ...orderState, loading: false, error: action.payload };
 
     default:
-      return orderState;
+      return orderState
   }
 };

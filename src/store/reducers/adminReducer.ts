@@ -42,6 +42,6 @@ export const adminReducer=(adminState=adminData,action:any)=>{
         case adminActionsName.SUCCESS_GET_ORDERS:return{...adminState,loading:false,orders:action.payload}
         case adminActionsName.FAIL_GET_ORDERS:return{...adminState,loading:false,error:action.payload}     
 
-        default:return adminState
+        default:return adminState;
     }
 }

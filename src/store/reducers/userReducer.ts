@@ -36,6 +36,6 @@ export const userReducer=(userState=userData,action:any)=>{
     
 
        
-        default:return userState
+        default:return userState;
     }
 }

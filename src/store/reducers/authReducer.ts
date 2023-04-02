@@ -16,6 +16,6 @@ switch (action.type) {
     case AuthActionsName.FAIL_SIGNUP:return{...userData,loading:false,error:action.payload}
     case AuthActionsName.SIGNOUT:return{...userData,loading:false,user:{},error:''}
 
-    default:return userData
+    default:return userData;
 }
 }

@@ -13,4 +13,4 @@ export const reducer={
     theme:themeReducer,
     userData:userReducer,
     orders:ordersReducer
-}
+};

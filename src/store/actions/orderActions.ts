@@ -62,5 +62,5 @@ export const orderMethoad = {
           orderActions.failGetSpesificOrder(error.response.data.massege)
         );
     } catch (error) {}
-  },
+  }
 };

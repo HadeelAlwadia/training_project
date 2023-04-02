@@ -259,9 +259,9 @@ export const adminMethoad = {
     } catch (error: any) {
         
     }
-  },
+  }
 
-};
+}
 
 
 

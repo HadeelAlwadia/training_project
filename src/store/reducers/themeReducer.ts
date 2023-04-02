@@ -6,6 +6,6 @@ switch (action.type) {
  case themeActionsName.LIGHT_THEME:return {...themeObject,main:themeObject.lightTheme}
 
 
-    default:    return theme
+    default:  return theme;
 }
 }
