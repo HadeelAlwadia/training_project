@@ -201,4 +201,4 @@ interface IDetailesOfOrder{
     IOrder,
     ItemOfCart,
     IDetailesOfOrder
-}
+};
