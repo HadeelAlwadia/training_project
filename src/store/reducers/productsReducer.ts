@@ -1,6 +1,5 @@
-import { actionsType, IStateOfProduct } from "../../@types";
-import { productsMethods } from "../../api/productsMethod";
-import { adminActionsName } from "../constances/adminActionsName";
+import {  IStateOfProduct } from "../../@types";
+
 import { productsActionsName } from "../constances/productsactionsName";
 
 const productsData: IStateOfProduct = {
