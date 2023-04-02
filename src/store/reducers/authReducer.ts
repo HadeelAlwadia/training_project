@@ -18,4 +18,4 @@ switch (action.type) {
 
     default:return userData;
 }
-}
+};

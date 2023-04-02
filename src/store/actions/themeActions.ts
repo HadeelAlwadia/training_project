@@ -4,4 +4,4 @@ import { themeActionsName } from "../constances/themeActionName";
     darkTheme:()=>({type:themeActionsName.DARK_THEME}),
     lightTheme:()=>({type:themeActionsName.LIGHT_THEME})
 
-}
+};

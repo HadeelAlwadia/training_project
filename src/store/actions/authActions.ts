@@ -62,4 +62,4 @@ export const authMethoad = {
   signOut:(dispatch: AppDispatch, )=>{
   dispatch(authActions.SignOut())
   }
-}
+};

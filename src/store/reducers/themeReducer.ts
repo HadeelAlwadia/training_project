@@ -8,4 +8,4 @@ switch (action.type) {
 
     default:  return theme;
 }
-}
+};

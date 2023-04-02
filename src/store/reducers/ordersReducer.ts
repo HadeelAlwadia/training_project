@@ -41,5 +41,5 @@ export const ordersReducer = (
 
     default:
       return orderState
-  }
+   }
 };

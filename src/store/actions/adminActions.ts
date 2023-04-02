@@ -261,7 +261,7 @@ export const adminMethoad = {
     }
   }
 
-}
+};
 
 
 

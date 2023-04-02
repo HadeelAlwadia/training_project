@@ -44,4 +44,4 @@ export const adminReducer=(adminState=adminData,action:any)=>{
 
         default:return adminState;
     }
-}
+};

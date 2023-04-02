@@ -6,5 +6,4 @@ export const AuthActionsName={
     SUCCESS_SIGNIN:'SUCCESS_SIGNIN',
     FAIL_SIGNIN:'FAIL_SIGNIN',
      SIGNOUT:'SIGNOUT'
-
 };
